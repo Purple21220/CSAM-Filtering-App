@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1022155977270",
+    "project_id": "klikit-a1109",
+    "storage_bucket": "klikit-a1109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022155977270:android:95dbfe6e23431f29229e97",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022155977270-53afe604mmaahq9jms6om6r4pb2uolkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK0VklSJhhOt8JlTx7OM8_e1fPqGvnGAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022155977270-53afe604mmaahq9jms6om6r4pb2uolkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022155977270:android:1e9c46f2f160e69f229e97",
+        "android_client_info": {
+          "package_name": "com.com.App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022155977270-53afe604mmaahq9jms6om6r4pb2uolkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK0VklSJhhOt8JlTx7OM8_e1fPqGvnGAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022155977270-53afe604mmaahq9jms6om6r4pb2uolkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
